@@ -1,7 +1,7 @@
 # face-tracker-pyjs
 ## Heavily based on face-api.js!!! (also scuffed)
 
-This collection of scripts uses both javascript and python because face-api.js was the best facial landmarking software I could find. I added some math on top of face-api.js to get the position/orientation data from the landmarks.
+This collection of scripts uses both javascript and python because face-api.js was the best facial landmarking software I could find. I added some math on top of face-api.js to get the position/orientation data from the landmarks. This repository isn't a working codebase. It's a collection of the majority of the code I used (I gutted out some parts I don't want published). The code here provides much of the base functionality though.
 
 *face-api.js is a client-side webbrowser based facial tracking library.*
 
